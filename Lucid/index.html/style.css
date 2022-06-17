@@ -1,0 +1,35 @@
+*{
+ margin: 0 ;
+ padding: 0;  
+ background-color: blue; 
+}
+h1 , h2 , h3, h4 , h5 , a , p {
+font-family: 'Source Sans Pro', sans-serif; 
+}
+a {
+  text-decoration: none;
+  display: inline-block;  
+}
+.container{
+    margin: 0 auto;
+    width: 80%;
+    ;
+}
+li{
+  list-style: none;
+}
+
+.col-6 {
+  width: 48%;
+}
+.col-4 {
+  width: 30%;
+}
+.main-box{
+  width: 100%;
+  background-image: url(../image/background2.png);
+  background-repeat: none;
+  background-size: cover;
+  height: 600;
+  
+}
